@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "python.venvPath": "${workspaceFolder}",
+  "python.useEnvironmentsExtension": false,
+  "jupyter.kernels.excludePythonEnvironments": []
+}
