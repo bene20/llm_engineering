@@ -1,0 +1,3 @@
+Casa => Cursor
+LM => LLM
+Laura => LORA
